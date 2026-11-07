@@ -1,0 +1,4 @@
+row,reason,first_name,last_name,email,phone,company,source
+5,invalid email 'lucas.silva@example',Lucas,Silva,lucas.silva@example,5556667777,,Website
+6,missing email,Olivia,Jones,,5558889999,,Referral
+10,missing name,,,anonymous@example.com,,,Website
