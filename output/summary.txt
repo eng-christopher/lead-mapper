@@ -1,0 +1,17 @@
+LEAD MAPPER - SUMMARY
+========================================
+Leads received:       10
+Ready for CRM:        6
+Need review:          3
+Duplicates removed:   1
+
+Automatic fixes applied:
+  - email cleaned (case/spaces): 2
+  - name split into first/last: 6
+  - phone normalized: 6
+  - source standardized: 9
+
+Leads that need review:
+  - row 5: invalid email 'lucas.silva@example'
+  - row 6: missing email
+  - row 10: missing name
